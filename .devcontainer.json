@@ -1,0 +1,27 @@
+{
+    "settings": {
+        "editor.renderWhitespace": "selection",
+        "editor.selectionHighlight": false,
+        "editor.semanticTokenColorCustomizations": {
+          "[GitHub Dark Default]": {
+            "rules": {
+              "type": "#FF7E76"
+            }
+          },
+          "[GitHub Light Default]": {
+            "rules": {
+              "type": "#D2343F"
+            }
+          }
+        },
+        "git.autofetch": true,
+        "git.decorations.enabled": false,
+        "git.terminalAuthentication": true,
+        "gitdoc.autoPull": "off",
+        "gitdoc.commitMessageFormat": "ccc, LLL d, kkkk, h:mm a ZZ",
+        "gitdoc.commitValidationLevel": "none",
+        "gitdoc.enabled": true,
+        "gitdoc.pullOnOpen": false,
+        "github.gitAuthentication": true
+    }
+}
